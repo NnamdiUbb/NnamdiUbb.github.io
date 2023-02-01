@@ -1,0 +1,104 @@
+body{
+    margin: 0;
+    background-image: url("/images/Background.jpeg");
+    font-family: 'Courier New', Courier, monospace;
+}
+.Nnamdi{border-radius: 30px;
+    text-align:center;
+    border: 5px solid darkkhaki;
+    
+}
+.Basketball{border-radius: 30px;
+    border: 5px solid rgb(63, 40, 40);
+}
+.Coding{border-radius: 30px;
+    border: 5px solid  rgb(63, 40, 40);}
+
+
+.first {
+    background-image:url(/images/Wallpaper.jpeg);
+    padding-bottom: 5px;
+    padding-top: 10px;
+    font-family: 'Courier', cursive;
+    font-size:x-large;
+    color:darkkhaki;
+    text-align:center;
+}
+hr.one{
+    border: 1px solid darkkhaki;
+  }
+  hr.two{border:1px solid darkkhaki;
+}
+hr.three{border:1px solid darkkhaki
+}
+.MySkills{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style:inherit;
+    color:#845410 ;
+    border:1px solid darkkhaki;
+    border-style:double;
+    border-radius: 30px;}
+
+.Languages{float:left;
+    width: 25%;
+    border: 3px solid rgb(139, 134, 65);
+    border-radius: 30px}
+
+.Leadership{float: left;
+    width: 40%;
+    border: 5px solid rgb(139, 134, 65);
+    border-radius: 30px
+}
+
+.Walmart{ color: rgb(48, 192, 48);
+    background-color: transparent;
+    text-decoration:green}
+
+.second {padding-top: 20px;
+    padding-bottom: 20px;
+    width:60%;
+    margin-left:auto;
+    margin-right:auto;
+    text-align: center;
+    font-family:'Trebuchet MS', cursive;
+    font-size:larger;
+    color:darkkhaki;
+}
+.Skills{float: left;
+    width: 40%;
+    border: 5px solid rgb(139, 134, 65);
+    border-radius: 30px
+}
+
+.button {
+    color: aliceblue;
+    font-size:large;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left:30%;
+    margin-right:30%;
+    background-color:rgb(84, 81, 81);
+    border-style: solid;
+    border-color:darkkhaki;
+    border-radius:15px;
+    box-shadow: 0 4px 8px 0 darkkhaki;
+    transition: 0.3s;
+    width: 38%;
+    outline:#000608 5px;
+    align-items:center;
+    text-decoration: none
+  }
+      
+      
+.button:hover {
+    box-shadow: 0 8px 16px 20px darkkhaki;
+    align-items:center;
+    text-align: center;
+}
+
+.Contact{font-family: 'Courier New', Courier, monospace;
+    color: darkkhaki;
+text-align: center;}
+.Cborder{
+    border: 1px solid darkkhaki;
+}
+.four{margin:0px}
